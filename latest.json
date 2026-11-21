@@ -1,6 +1,6 @@
 {
   "format": "slovio-release-manifest",
   "keyId": "slovio-release-2026-11",
-  "payload": "{\"schema\":1,\"android\":{\"sideload\":{\"versionCode\":3,\"versionName\":\"1.1.0\",\"url\":\"https://github.com/devcrunchy/slovio-releases/releases/download/v1.1.0-3/slovio-1.1.0-3.apk\",\"size\":62090469,\"sha256\":\"204bdd20339ad81178b4a29ed93480510082263d0909e361450c89a44b1b10b1\",\"md5\":\"e8c4da169497a52a394f307c6e08ce22\",\"minSupported\":1,\"notes\":\"First signed release of the Slovio Android app. From now on the app tells you when a new build is out.\",\"publishedAt\":\"2026-11-21T05:16:24.402Z\",\"expiresAt\":\"2027-05-20T05:16:24.402Z\",\"packageName\":\"ai.slovio.app\",\"certSha256\":\"443b584795d33ce5adf0c20678c8a8ff51690cdb7fb94d133aa246e6dc9a19d4\"}}}",
-  "signature": "d7ZXxSVBZ1MeH2p7rWM2puZtJI+IybQcxKkyKZElLIGUwJtiOVqfKhVCYGiW3pXZCbInPKuJ/PP1bvDTkGnhCg=="
+  "payload": "{\"schema\":1,\"android\":{\"sideload\":{\"versionCode\":5,\"versionName\":\"1.1.1\",\"url\":\"https://github.com/devcrunchy/slovio-releases/releases/download/v1.1.1-5/slovio-1.1.1-5.apk\",\"size\":84097147,\"sha256\":\"5c96d4a427688fe974410bc81ad6ab1866794fda0578b5b6cf2683cbc9f4a54f\",\"md5\":\"689ab0c655787dafc642a1cb38679703\",\"minSupported\":1,\"notes\":\"Calls can now go over the internet from inside the app, with your phone ringing first only as a backup. Also includes the newest lead, inbox and calling improvements.\",\"publishedAt\":\"2026-11-21T09:06:56.302Z\",\"expiresAt\":\"2027-05-20T09:06:56.302Z\",\"packageName\":\"ai.slovio.app\",\"certSha256\":\"443b584795d33ce5adf0c20678c8a8ff51690cdb7fb94d133aa246e6dc9a19d4\"}}}",
+  "signature": "EVSwzSs4mqPl9Snfosjidt2BLp3zFInsLP2F9ZvQHDoAbA54JcnuYWIDsa8mzueGKHqZN4vGIpbvXTPVOF8eCw=="
 }
