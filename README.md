@@ -26,7 +26,7 @@ Every release lists the APK's SHA-256 below and in its release notes. Compare it
 Every build is signed with the same certificate. Its SHA-256 fingerprint is:
 
 ```
-(published with the first release)
+443b584795d33ce5adf0c20678c8a8ff51690cdb7fb94d133aa246e6dc9a19d4
 ```
 
 Android refuses to update the app with a file signed by any other certificate, and the app itself
@@ -36,7 +36,7 @@ only accepts update notices signed with Slovio's release key.
 
 | Version | Build | APK SHA-256 | Published |
 |---|---|---|---|
-| (first release pending) | | | |
+| 1.1.0 | 3 | `204bdd20339ad81178b4a29ed93480510082263d0909e361450c89a44b1b10b1` | 2026-11-21 |
 
 ## Security
 
