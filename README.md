@@ -36,6 +36,7 @@ only accepts update notices signed with Slovio's release key.
 
 | Version | Build | APK SHA-256 | Published |
 |---|---|---|---|
+| 1.1.3 | 9 | `1717338241d55e98e69388a10bcc6f843ffc08a050e29a4d23f3e29585986134` | 2026-11-21 |
 | 1.1.2 | 7 | `453c9440afb1bf35de2e171bbd8ba6c4c045d78f7ffcf082e5d24f8ffe082e21` | 2026-11-21 |
 | 1.1.1 | 5 | `5c96d4a427688fe974410bc81ad6ab1866794fda0578b5b6cf2683cbc9f4a54f` | 2026-11-21 |
 | 1.1.0 | 3 | `204bdd20339ad81178b4a29ed93480510082263d0909e361450c89a44b1b10b1` | 2026-11-21 |

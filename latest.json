@@ -1,6 +1,6 @@
 {
   "format": "slovio-release-manifest",
   "keyId": "slovio-release-2026-11",
-  "payload": "{\"schema\":1,\"android\":{\"sideload\":{\"versionCode\":7,\"versionName\":\"1.1.2\",\"url\":\"https://github.com/devcrunchy/slovio-releases/releases/download/v1.1.2-7/slovio-1.1.2-7.apk\",\"size\":84249107,\"sha256\":\"453c9440afb1bf35de2e171bbd8ba6c4c045d78f7ffcf082e5d24f8ffe082e21\",\"md5\":\"8f2ba56e9f989e0f0fa2ea48c2f59102\",\"minSupported\":1,\"notes\":\"Android notifications now work, including chat. Incoming internet calls can ring even when the app is closed, and the Inbox no longer closes on opening.\",\"publishedAt\":\"2026-11-21T12:00:41.903Z\",\"expiresAt\":\"2027-05-20T12:00:41.903Z\",\"packageName\":\"ai.slovio.app\",\"certSha256\":\"443b584795d33ce5adf0c20678c8a8ff51690cdb7fb94d133aa246e6dc9a19d4\"}}}",
-  "signature": "QfX2UIs8Pwqp60CCmXa4MkdoyEifr+S1kNsGru/97Nf0Oh1RWrrcLeoZTPCCb6Gx0fEtCkUFZd8e9i+qjc5ZCA=="
+  "payload": "{\"schema\":1,\"android\":{\"sideload\":{\"versionCode\":9,\"versionName\":\"1.1.3\",\"url\":\"https://github.com/devcrunchy/slovio-releases/releases/download/v1.1.3-9/slovio-1.1.3-9.apk\",\"size\":84322371,\"sha256\":\"1717338241d55e98e69388a10bcc6f843ffc08a050e29a4d23f3e29585986134\",\"md5\":\"d774f02e73385915668fe9ac5fa3ee66\",\"minSupported\":1,\"notes\":\"Bluetooth audio during internet calls is fixed, and screens open faster without flicker.\",\"publishedAt\":\"2026-11-21T14:52:34.184Z\",\"expiresAt\":\"2027-05-20T14:52:34.184Z\",\"packageName\":\"ai.slovio.app\",\"certSha256\":\"443b584795d33ce5adf0c20678c8a8ff51690cdb7fb94d133aa246e6dc9a19d4\"}}}",
+  "signature": "GS7zlr9Hdb7zkwwcT6Rnw90hYBXStlAUgjNqmsjucglniXUY7oAvEkr6ybvqeAubg+tJiMXFJM5ovq4DGSu/Ag=="
 }
